@@ -1,0 +1,61 @@
+Строка нашего текста в test_19_os.txt 
+C:\Users\lwpp6\Desktop\Python
+    1)C:\Users\lwpp6\Desktop\Python\fon.png
+    2)C:\Users\lwpp6\Desktop\Python\icons7.png
+    3)C:\Users\lwpp6\Desktop\Python\new_modul.py
+    4)C:\Users\lwpp6\Desktop\Python\save.txt
+    5)C:\Users\lwpp6\Desktop\Python\test_1.py
+    6)C:\Users\lwpp6\Desktop\Python\test_10_walk.py
+    7)C:\Users\lwpp6\Desktop\Python\test_11_walk.py
+    8)C:\Users\lwpp6\Desktop\Python\test_12_func.py
+    9)C:\Users\lwpp6\Desktop\Python\test_13_func.py
+   10)C:\Users\lwpp6\Desktop\Python\test_14_global.py
+   11)C:\Users\lwpp6\Desktop\Python\test_15_global.py
+   12)C:\Users\lwpp6\Desktop\Python\test_16_dict.py
+   13)C:\Users\lwpp6\Desktop\Python\test_17_dict.py
+   14)C:\Users\lwpp6\Desktop\Python\test_18_1_os.py
+   15)C:\Users\lwpp6\Desktop\Python\test_18_2_os.txt
+   16)C:\Users\lwpp6\Desktop\Python\test_18_os.py
+   17)C:\Users\lwpp6\Desktop\Python\test_19_os.txt
+   18)C:\Users\lwpp6\Desktop\Python\test_2.py
+   19)C:\Users\lwpp6\Desktop\Python\test_20_множ.py
+   20)C:\Users\lwpp6\Desktop\Python\test_20_множ.txt
+   21)C:\Users\lwpp6\Desktop\Python\test_21_множ.py
+   22)C:\Users\lwpp6\Desktop\Python\test_22_stroka.py
+   23)C:\Users\lwpp6\Desktop\Python\test_22_stroka.txt
+   24)C:\Users\lwpp6\Desktop\Python\test_23_stroka.py
+   25)C:\Users\lwpp6\Desktop\Python\test_24_try.py
+   26)C:\Users\lwpp6\Desktop\Python\test_25_try.py
+   27)C:\Users\lwpp6\Desktop\Python\test_26.txt
+   28)C:\Users\lwpp6\Desktop\Python\test_26_with.py
+   29)C:\Users\lwpp6\Desktop\Python\test_26_with.txt
+   30)C:\Users\lwpp6\Desktop\Python\test_27_modul.py
+   31)C:\Users\lwpp6\Desktop\Python\test_28_modul.py
+   32)C:\Users\lwpp6\Desktop\Python\test_29_tkinter.py
+   33)C:\Users\lwpp6\Desktop\Python\test_3_loop.py
+   34)C:\Users\lwpp6\Desktop\Python\test_4_loop.py
+   35)C:\Users\lwpp6\Desktop\Python\test_5_range.py
+   36)C:\Users\lwpp6\Desktop\Python\test_6_list.py
+   37)C:\Users\lwpp6\Desktop\Python\test_7_list.py
+   38)C:\Users\lwpp6\Desktop\Python\test_8_list.py
+   39)C:\Users\lwpp6\Desktop\Python\test_9_tuple.py
+C:\Users\lwpp6\Desktop\Python\.idea
+    1)C:\Users\lwpp6\Desktop\Python\.idea\.gitignore
+    2)C:\Users\lwpp6\Desktop\Python\.idea\modules.xml
+    3)C:\Users\lwpp6\Desktop\Python\.idea\Python.iml
+    4)C:\Users\lwpp6\Desktop\Python\.idea\workspace.xml
+C:\Users\lwpp6\Desktop\Python\__pycache__
+    1)C:\Users\lwpp6\Desktop\Python\__pycache__\new_modul.cpython-39.pyc
+C:\Users\lwpp6\Desktop\Python\Новая папка 1
+    1)C:\Users\lwpp6\Desktop\Python\Новая папка 1\test_1.py
+    2)C:\Users\lwpp6\Desktop\Python\Новая папка 1\test_2.py
+    3)C:\Users\lwpp6\Desktop\Python\Новая папка 1\test_3_loop.py
+    4)C:\Users\lwpp6\Desktop\Python\Новая папка 1\test_4_loop.py
+    5)C:\Users\lwpp6\Desktop\Python\Новая папка 1\test_5_range.py
+C:\Users\lwpp6\Desktop\Python\Новая папка 1\Новая папка 1_1
+C:\Users\lwpp6\Desktop\Python\Новая папка 2
+    1)C:\Users\lwpp6\Desktop\Python\Новая папка 2\test_6_list.py
+    2)C:\Users\lwpp6\Desktop\Python\Новая папка 2\test_7_list.py
+    3)C:\Users\lwpp6\Desktop\Python\Новая папка 2\test_8_list.py
+    4)C:\Users\lwpp6\Desktop\Python\Новая папка 2\test_9_tuple.py
+C:\Users\lwpp6\Desktop\Python\Новая папка 2\Новая папка 2_1
