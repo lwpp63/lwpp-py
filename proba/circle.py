@@ -11,7 +11,7 @@ def circle_area(radius):
     return pi*pow(radius,2)
 
 if __name__=='__main__':
-    r_list = [2,9,7+9j,0,2+3j,True,[7],'nine']
+    r_list = [2,9,7+9j,0,2+3j,True,[7],'nine',99]
 
     i=1
     for r in r_list:
