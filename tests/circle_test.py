@@ -13,7 +13,7 @@ class TestCircleArea(unittest.TestCase):
     def test_values(self):
         self.assertRaises(ValueError, circle_area, -5)
         self.assertRaises(ValueError, circle_area, -33)
-       # self.assertRaises(ValueError, circle_area, 0)
+        self.assertRaises(ValueError, circle_area, 0)
 
     print("Выбрасываются ли исключения о несовместимости типов?")
     def test_types(self):
