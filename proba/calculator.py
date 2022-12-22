@@ -29,4 +29,4 @@ def calculator(expression):
 
 
 if __name__ == '__main__':
-    print(calculator('27+-9'))
+    print(f"1).calculator('27+-9') = {calculator('27+-9')}")
