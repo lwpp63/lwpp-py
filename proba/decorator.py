@@ -2,10 +2,10 @@ import  datetime, time
 print(f"Функция это полноправный объект! {__name__}")
 print("Внутренняя функция может захватывать переменные из внешней!")
 def summ(a, b, c):
-    return a + b - c
+    return (a + b)*c
 
 def example(examp):
-    print((f'1).Имя функции: {examp.__name__}'))
+    print((f'1).Имя функции: {examp.__name__}, результат = {examp(1,2,3)}'))
 
 def bot(x):
     def inner(y):
@@ -41,8 +41,8 @@ def sum_2(x,y,z,v):
 
 if __name__=='__main__':
     func = summ
-    print(summ)
-    print(func)
+    print(f'summ = {sum}')
+    print(f'func = {func}')
     example(summ)
     bot(10)
     function = logger(summ)
